@@ -134,4 +134,5 @@ dmypy.json
 
 .idea
 database/logs
-.vscode.DS_Store
+.vscode
+.DS_Store
